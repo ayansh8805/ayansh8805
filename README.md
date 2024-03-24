@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Cloud Computing & AI.<br>🎯 Goals: To become a Full Stack Dev.<br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Cloud Computing & AI.<br>🎯 Goals: To become a Full Stack Dev.<br>🎲 Fun fact: I'm a night owl ; )</p>
 
 ###
 
